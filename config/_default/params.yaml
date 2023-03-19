@@ -6,10 +6,10 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night: minimal
-  font: minimal
-  font_size: L
+  theme_day: bleh
+  theme_night: bleh
+  font: 'bleh'
+  font_size: M
 
 # SEO
 
@@ -18,10 +18,10 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    description: ''
+    twitter: '0xCardinal'
   analytics:
-    google_analytics: ''
+    google_analytics: 'UA-181964355-2'
     baidu_tongji: ''
   verification:
     google: ''
@@ -32,22 +32,22 @@ marketing:
 header:
   navbar:
     enable: true
-    align: l
+    align: c
     show_logo: true
     show_language: false
     show_day_night: true
-    show_search: true
+    show_search: false
     highlight_active_link: true
 
 # Site footer
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Kumar Ashwin'
     license:
-      enable: true
+      enable: false
       allow_derivatives: false
-      share_alike: true
+      share_alike: false
       allow_commercial: false
 
 # Localization
@@ -68,7 +68,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/0xCardinal/0xCardinal.com'
     content_dir: content
     branch: main
   avatar:
@@ -103,7 +103,7 @@ features:
 extensions:
   cms:
     branch: main
-    local_backend: false
+    local_backend: true
   academicons:
     enable: true
 
@@ -111,4 +111,4 @@ extensions:
 
 security:
   # Allow frame for embedding speaker notes in slides
-  allow_frame: true
+  allow_frame: false
