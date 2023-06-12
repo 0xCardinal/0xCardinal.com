@@ -43,7 +43,7 @@ sections:
           date_start: '2022-05-01'
           date_end: '2023-02-14'
           description: |2-
-              -	Manages entire delivery process of all the projects in the company ensuring the quality of work is being delivered to the customer.
+              -	Managed entire delivery process of all the projects in the company ensuring the quality of work is being delivered to the customer.
               -	Acts as first point of contact for customers to resolve any issues.
               -	Technical Lead for Projects.
               -	Coordinating with different departments like HR, Marketing, Finance to get the best for the consultants and customers.

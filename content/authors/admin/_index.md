@@ -80,9 +80,3 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-
-
-
-{{% callout note %}}
-Register for our upcoming [X33FCON 2023 Training](https://www.x33fcon.com/#!training.md) on <br> **[AWS Security Masterclass](talk/aws-security-masterclass/)** before it gets sold out.
-{{% /callout %}}

@@ -10,7 +10,7 @@ address:
   city: 81-451 Gdynia
   region: Poland
 
-summary: An example talk using Wowchemy's Markdown slides feature.
+summary: Training on different attack & defense strategies related to AWS Cloud.
 abstract: ''
 
 # Talk start and end times.
@@ -43,16 +43,6 @@ url_slides: ''
 url_video: ''
 
 ---
-
-{{< toc >}}
-
-{{% callout note %}}
-Register for our training at x33fcon 2023 - [Register Now!!](https://www.x33fcon.com/#!treg.md)
-{{% /callout %}}
-
-{{< tweet user="x33fcon" id="1636654122601533440" >}}
-
-
 # TRAINING OUTLINE
 
 AWS is the market leader in cloud computing. It has over 200 services under all three cloud computing models: IaaS, PaaS, and SaaS (and everything in between). Each service solves a different problem and has a different attack surface. Even if successfully compromised, each service would have a different blast radius.
