@@ -35,7 +35,7 @@ links:
   url: https://twitter.com/0xCardinal
 url_code: ""
 url_pdf: ""
-url_slides: "./media/Dive-in-with-git.pdf"
+# url_slides: "./media/Dive-in-with-git.pdf"
 url_video: ""
 
 # Markdown Slides (optional).
