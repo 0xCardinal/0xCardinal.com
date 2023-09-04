@@ -30,11 +30,20 @@ sections:
           company_url: 'https://deepsource.com/'
           location: Bengaluru
           date_start: '2023-02-20'
-          date_end: ''
+          date_end: '2023-09-01'
           description: |2-
-              - Part of Platform Team at DeepSource.
-              - Responsible for implementing security throughout the organization and in the product.
-              - Understanding and securing technologies like Kubernetes and different Cloud Service Providers.
+              - Implement and enforce security practices throughout the entire organization.
+              - Implemented security tooling such as Trivy, Trufflehog, and others, and ensured the integration of GitHub security features into the DevOps pipeline. Collaborated cross-functionally to drive widespread adoption of these security measures.
+              - Research on different exploits reported by tool to determine it's impact and exploitability using frameworks like EPSS.
+              - Conducted penetration tests on feature releases and managed annual third-party security assessments to ensure software security and compliance.
+              - Implemented a centralized vulnerability management solution to efficiently manage and triage security issues reported by tools like Trivy and ScoutSuite-powered makeshift CSPM.
+              - Conducted routine access audits, enforced the least privilege principle, restricted access to sensitive components and data to only when necessary, and maintained comprehensive access logs for these instances.
+              - Played a pivotal role in working towards attaining SOC2 and ISO27001 compliance certifications, demonstrating a commitment to industry- leading security standards.
+              - Used Terraform for automated resource provisioning via pull requests, enhancing security and consistency while reducing operational risks.
+              - Actively led the codebase and GitHub organization migration process, including restructuring and access control, to ensure a secure and organized transition.
+              - Collaborated on enhancing deployment security with ArgoCD, optimizing the management of GitOps-driven infrastructure and ensuring secure, automated deployments.
+              - Efficiently triaged reports from our open bug bounty program, prioritizing and addressing security vulnerabilities to enhance overall system resilience.
+              - Conducted phishing drills to educate and raise awareness among team members about security threats and phishing attack vigilance.
 
         - title: Security Consultant - Program Manager
           company: Payatu
