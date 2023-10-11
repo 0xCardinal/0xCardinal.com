@@ -81,6 +81,7 @@ sections:
               * Working with clients to pentest web applications.
               * Developed front-end solution to make the secure code wiki public - [securecode.wiki](https://securecode.wiki) and also created its CI/CD pipeline.
               * Research on real time scenarios and tools.
+              
         - title: Software Development Intern
           company: RevMeUp
           company_url: ''

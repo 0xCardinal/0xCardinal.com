@@ -25,7 +25,7 @@ links:
   url: https://twitter.com/0xCardinal
 url_code: ""
 url_pdf: ""
-# url_slides: "../slides/Common Misconfigurations In Your Kubernetes Cluster And What.pdf"
+url_slides: "../slides/Common Misconfigurations In Your Kubernetes Cluster And What.pdf"
 url_video: ""
 
 authors: []
