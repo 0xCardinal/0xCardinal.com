@@ -71,7 +71,7 @@ sections:
               -	Worked on in-house open-source projects like https://securecode.wiki and https://cybersecwiki.com to contribute to infosec community.
               -	Hosted and managed Payatu Hiring CTF, contributed to creating challenges, hosting, and maintaining infrastructure, moderating Discord, etc. post that taking interviews of the top candidates to hire them.
 
-        - title: Security Consultancy Intern
+        - title: Security Consultant Intern
           company: Payatu
           company_url: 'https://payatu.com/'
           location: Pune
@@ -86,7 +86,7 @@ sections:
           company: RevMeUp
           company_url: ''
           location: Remote
-          date_start: '2020-06-01'
+          date_start: '2020-05-01'
           date_end: '2020-08-31'
           description: |2-
               * Developed an admin panel to monitor and manage data and requests from the mobile application.
