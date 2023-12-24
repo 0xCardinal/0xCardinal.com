@@ -25,6 +25,14 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Senior Security Engineer
+          company: Tide Platform Limited (Tide)
+          company_url: 'https://tide.co/'
+          location: Remote
+          date_start: '2023-11-13'
+          date_end: ''
+          description: 
+
         - title: Security Engineer
           company: DeepSource
           company_url: 'https://deepsource.com/'

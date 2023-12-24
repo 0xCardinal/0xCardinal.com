@@ -14,12 +14,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-# role: "Securing Thoughts"
+role: "Securing Thoughts"
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Security Engineer & Researcher
-    # url: https://www.deepsource.com/
+  - name: Senior Security Engineer @ Tide
+    url: https://www.tide.co/
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
