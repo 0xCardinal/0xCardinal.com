@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Kumar Ashwin # Website name
-baseurl: 'https://0xcardinal.com' # Website URL
+baseurl: 'https://kumarashwin.com' # Website URL
 copyright: '© {year} KumarAshwin' # Footer text, e.g. '© {year} Me'
 
 ############################
