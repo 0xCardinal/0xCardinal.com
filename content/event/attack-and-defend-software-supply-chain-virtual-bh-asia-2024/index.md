@@ -1,5 +1,5 @@
 ---
-title: ATTACK AND DEFEND SOFTWARE SUPPLY CHAIN (VIRTUAL)
+title: Attack and Defend Software Supply Chain (Virtual) - Blackhat Asia 2024
 
 event: BlackHat Asia 2024
 event_url: https://www.blackhat.com/asia-24/training/schedule/index.html#attack-and-defend-software-supply-chain-virtual-36009

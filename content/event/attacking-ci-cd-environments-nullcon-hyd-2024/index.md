@@ -1,5 +1,5 @@
 ---
-title: Attacking CI/CD Environments - Nullcon
+title: Attacking CI CD Environments - Nullcon Hyderabad 2024
 
 event: NULLCON 2024 - Hyderabad Edition
 event_url: https://nullcon.net/hyderabad-2024/training/attacking-ci-cd-environments

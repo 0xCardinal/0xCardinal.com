@@ -1,5 +1,5 @@
 ---
-title: Attacking CI/CD Environments - OWASP Trainings
+title: Attacking CI CD Environments - OWASP Spring Training (Virtual) 2024
 
 event: OWASP Spring Training 2024
 event_url: https://www.eventbrite.com/e/owasp-spring-virtual-training-tickets-848566494227?aff=oddtdtcreator
