@@ -90,5 +90,5 @@ highlight_name: false
 {{% /callout %}}
 
 {{% callout note %}}
-[Register here](https://www.eventbrite.com/e/owasp-spring-virtual-training-tickets-848566494227?aff=oddtdtcreator) for our upcoming **OWASP Spring Virtual Training 2024** on **[Attacking CI CD Environments](talk/attacking-ci-cd-environments-owasp-spring-training-2024/)** before it gets sold out.
+[Register here](https://www.eventbrite.com/e/owasp-spring-virtual-training-tickets-848566494227?aff=oddtdtcreator) for our upcoming **OWASP Spring Virtual Training 2024** on **[Attacking CI CD Environments](talk/attacking-ci-cd-environments-owasp-spring-training-virtual-2024/)** before it gets sold out.
 {{% /callout %}}
