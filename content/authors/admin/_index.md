@@ -80,3 +80,15 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
+
+{{% callout note %}}
+Register for our upcoming [Blackhat Asia 2024 Virtual Training](https://www.blackhat.com/asia-24/training/schedule/index.html#attack-and-defend-software-supply-chain-virtual-36009) on <br> **[Attack & Defend Software Supply Chain](talk/attack-and-defend-software-supply-chain-virtual-bh-asia-2024/)** before it gets sold out.
+{{% /callout %}}
+
+{{% callout note %}}
+Register for our upcoming [NULLCON 2024 - Hyderabad](https://nullcon.net/hyderabad-2024/training/attacking-ci-cd-environments-nullcon-hyd-2024) on <br> **[Attacking CI CD Environments](talk/attacking-ci-cd-environments/)** before it gets sold out.
+{{% /callout %}}
+
+{{% callout note %}}
+Register for our upcoming [OWASP Spring Virtual Training 2024](https://www.eventbrite.com/e/owasp-spring-virtual-training-tickets-848566494227?aff=oddtdtcreator) on <br> **[Attacking CI CD Environments](talk/attacking-ci-cd-environments-owasp-spring-virtual-training-2024/)** before it gets sold out.
+{{% /callout %}}

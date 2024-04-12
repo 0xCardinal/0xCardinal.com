@@ -200,7 +200,7 @@ sections:
     id: talks
     content:
       page_type: event
-      count: '1'
+      count: '3'
       title: Recent & Upcoming Talks
       filters:
         folders:
@@ -220,7 +220,7 @@ sections:
         - icon: twitter
           icon_pack: fab
           name: Ping Me!  
-          link: 'https://twitter.com/Twitter'
+          link: 'https://twitter.com/0xCardinal'
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
