@@ -200,7 +200,7 @@ sections:
     id: talks
     content:
       page_type: event
-      count: '3'
+      count: '1'
       title: Recent & Upcoming Talks
       filters:
         folders:
