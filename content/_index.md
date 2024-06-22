@@ -157,45 +157,45 @@ sections:
               * Generates content or organizes discussion for the members.
     design:
       columns: '2'
-  - block: accomplishments
-    content:
-      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Accomplish&shy;ments'
-      subtitle:
-      # Date format: https://wowchemy.com/docs/customization/#date-format
-      date_format: Jan 2006
-      # Accomplishments.
-      #   Add/remove as many `item` blocks below as you like.
-      #   `title`, `organization`, and `date_start` are the required parameters.
-      #   Leave other parameters empty if not required.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - certificate_url: ''
-          date_end: ''
-          date_start: '2020-03-10'
-          description: ''
-          organization: Microsoft
-          organization_url: https://www.microsoft.com
-          title: "MTA: Security Fundamentals"
-          url: 'https://docs.microsoft.com/en-us/learn/certifications/exams/98-367'
-        - certificate_url: ''
-          date_end: '2023-11-05'
-          date_start: '2020-11-06'
-          description: ''
-          organization: EC-Council
-          organization_url: https://www.eccouncil.org/
-          title: 'Certified Ethical Hacker (Practical)'
-          url: https://www.eccouncil.org/programs/certified-ethical-hacker-ceh-practical/
-        - certificate_url: ''
-          date_end: ''
-          date_start: '2021-04-16'
-          description: ''
-          organization: Amazon Web Services (AWS)
-          organization_url: https://www.aws.training/
-          title: 'AWS Security Fundamentals (Second Edition)'
-          url: 'https://www.aws.training/Details/eLearning?id=34259'
-    design:
-      columns: '2'
+  # - block: accomplishments
+  #   content:
+  #     # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
+  #     title: 'Accomplish&shy;ments'
+  #     subtitle:
+  #     # Date format: https://wowchemy.com/docs/customization/#date-format
+  #     date_format: Jan 2006
+  #     # Accomplishments.
+  #     #   Add/remove as many `item` blocks below as you like.
+  #     #   `title`, `organization`, and `date_start` are the required parameters.
+  #     #   Leave other parameters empty if not required.
+  #     #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+  #     items:
+  #       - certificate_url: ''
+  #         date_end: ''
+  #         date_start: '2020-03-10'
+  #         description: ''
+  #         organization: Microsoft
+  #         organization_url: https://www.microsoft.com
+  #         title: "MTA: Security Fundamentals"
+  #         url: 'https://docs.microsoft.com/en-us/learn/certifications/exams/98-367'
+  #       - certificate_url: ''
+  #         date_end: '2023-11-05'
+  #         date_start: '2020-11-06'
+  #         description: ''
+  #         organization: EC-Council
+  #         organization_url: https://www.eccouncil.org/
+  #         title: 'Certified Ethical Hacker (Practical)'
+  #         url: https://www.eccouncil.org/programs/certified-ethical-hacker-ceh-practical/
+  #       - certificate_url: ''
+  #         date_end: ''
+  #         date_start: '2021-04-16'
+  #         description: ''
+  #         organization: Amazon Web Services (AWS)
+  #         organization_url: https://www.aws.training/
+  #         title: 'AWS Security Fundamentals (Second Edition)'
+  #         url: 'https://www.aws.training/Details/eLearning?id=34259'
+  #   design:
+  #     columns: '2'
   - block: collection
     id: talks
     content:
@@ -215,12 +215,12 @@ sections:
       subtitle:
       text: ''
       # Contact (add or remove contact options as necessary)
-      email: ashwin@0xcardinal.com
-      contact_links:
-        - icon: twitter
-          icon_pack: fab
-          name: Ping Me!  
-          link: 'https://twitter.com/0xCardinal'
+      # email: ashwin@0xcardinal.com
+      # contact_links:
+      #   - icon: twitter
+      #     icon_pack: fab
+      #     name: Ping Me!  
+      #     link: 'https://twitter.com/0xCardinal'
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
