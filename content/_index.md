@@ -25,13 +25,30 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Technical Manager, Research & Consulting
+          company: Redhunt Labs
+          company_url: 'https://redhuntlabs.com/'
+          location: Remote
+          date_start: '2024-11-18'
+          date_end: ''
+          description: 
+
         - title: Senior Security Engineer
           company: Tide Platform Limited (Tide)
           company_url: 'https://tide.co/'
           location: Remote
           date_start: '2023-11-13'
-          date_end: ''
+          date_end: '2024-11-15'
           description: 
+              - 🤝 Worked alongside engineering teams to promote a shift-left culture and improve the company’s security posture.
+              - 🛡️ Conducted architecture reviews and threat modeling to proactively implement security best practices.
+              - 🎮 Developed and launched "Hourglass," a security gamification platform at Tide to reward positive security behavior, encouraging proactive issue reporting and reducing potential security risks.
+              - ⛅ Collaborated with the cloud engineering team to incorporate security in the AWS infrastructure.
+              - 🔍 Developed detections using logs from SaaS products like Okta and Google Workspaces with SIEM & SOAR, focusing on PCI, PII, and DLP compliance.
+              - 💻 Performed automated code reviews by creating custom DAST rules in Semgrep to enforce security practices, complemented by manual code reviews for thorough coverage.
+              - 🔐 Implemented data security by analyzing lineage, reviewing tool configurations, and managing controls and classification.
+              - 🪲 Detected and resolved misconfigurations in CI/CD pipelines, collaborating with teams to enhance security and mitigate supply chain risks.
+              - 📊 Automated metrics collection from various sources to generate actionable security insights and informed decision-making.
 
         - title: Security Engineer
           company: DeepSource
@@ -40,19 +57,18 @@ sections:
           date_start: '2023-02-20'
           date_end: '2023-09-01'
           description: |2-
-              - Implement and enforce security practices throughout the entire organization.
-              - Implemented security tooling such as Trivy, Trufflehog, and others, and ensured the integration of GitHub security features into the DevOps pipeline. Collaborated cross-functionally to drive widespread adoption of these security measures.
-              - Research on different exploits reported by tool to determine it's impact and exploitability using frameworks like EPSS.
-              - Conducted penetration tests on feature releases and managed annual third-party security assessments to ensure software security and compliance.
-              - Implemented a centralized vulnerability management solution to efficiently manage and triage security issues reported by tools like Trivy and ScoutSuite-powered makeshift CSPM.
-              - Conducted routine access audits, enforced the least privilege principle, restricted access to sensitive components and data to only when necessary, and maintained comprehensive access logs for these instances.
-              - Played a pivotal role in working towards attaining SOC2 and ISO27001 compliance certifications, demonstrating a commitment to industry- leading security standards.
-              - Used Terraform for automated resource provisioning via pull requests, enhancing security and consistency while reducing operational risks.
-              - Actively led the codebase and GitHub organization migration process, including restructuring and access control, to ensure a secure and organized transition.
-              - Collaborated on enhancing deployment security with ArgoCD, optimizing the management of GitOps-driven infrastructure and ensuring secure, automated deployments.
-              - Efficiently triaged reports from our open bug bounty program, prioritizing and addressing security vulnerabilities to enhance overall system resilience.
-              - Conducted phishing drills to educate and raise awareness among team members about security threats and phishing attack vigilance.
-
+              - 🛡️ Implemented and enforced security practices throughout the entire organization.
+              - 🔧 Implemented security tooling such as Trivy, Trufflehog, and others, and ensured the integration of GitHub security features into the DevOps pipeline. Collaborated cross-functionally to drive widespread adoption of these security measures.
+              - 🔍 Researched different exploits reported by tools to determine their impact and exploitability using frameworks like EPSS.
+              - 💻 Conducted penetration tests on feature releases and managed annual third-party security assessments to ensure software security and compliance.
+              - 🛠️ Implemented a centralized vulnerability management solution to efficiently manage and triage security issues reported by tools like Trivy and ScoutSuite-powered makeshift CSPM.
+              - 🔐 Conducted routine access audits, enforced the least privilege principle, restricted access to sensitive components and data, and maintained comprehensive access logs.
+              - 📜 Played a pivotal role in working towards attaining SOC2 and ISO27001 compliance certifications, demonstrating a commitment to industry-leading security standards.
+              - 🚀 Used Terraform for automated resource provisioning via pull requests, enhancing security and consistency while reducing operational risks.
+              - 🔄 Led the codebase and GitHub organization migration process, including restructuring and access control, to ensure a secure and organized transition.
+              - 🌐 Collaborated on enhancing deployment security with ArgoCD, optimizing the management of GitOps-driven infrastructure and ensuring secure, automated deployments.
+              - 🐞 Efficiently triaged reports from our open bug bounty program, prioritizing and addressing security vulnerabilities to enhance overall system resilience.
+              - 📧 Conducted phishing drills to educate and raise awareness among team members about security threats and phishing attack vigilance.
         - title: Security Consultant - Program Manager
           company: Payatu
           company_url: 'https://payatu.com/'
@@ -60,10 +76,11 @@ sections:
           date_start: '2022-05-01'
           date_end: '2023-02-14'
           description: |2-
-              -	Managed entire delivery process of all the projects in the company ensuring the quality of work is being delivered to the customer.
-              -	Acts as first point of contact for customers to resolve any issues.
-              -	Technical Lead for Projects.
-              -	Coordinating with different departments like HR, Marketing, Finance to get the best for the consultants and customers.
+              - 📦 Managed the entire delivery process of all projects in the company, ensuring the quality of work is being delivered to the customer.
+              - 🛠️ Acted as the first point of contact for customers to resolve any issues.
+              - 👨‍💻 Technical Lead for Projects.
+              - 🤝 Coordinated with different departments like HR, Marketing, and Finance to get the best for the consultants and customers.
+
 
         - title: Security Consultant
           company: Payatu
@@ -72,13 +89,12 @@ sections:
           date_start: '2021-07-01'
           date_end: '2022-05-01'
           description: |2-
-            -	Performed penetration testing on a wide range of web technologies to identify critical vulnerabilities affecting the business, such as Content Manipulation and SQL Injection.
-              -	Experienced in working with automated and manual penetration testing methodology to deliver quality results.
-              -	Performed cloud configuration review and penetration testing to find critical misconfiguration in client’s infrastructure.
-              -	Automated workflows   and created DevSecOps pipelines and performed penetration testing on CI/CD pipelines to find vulnerabilities.
-              -	Worked on in-house open-source projects like https://securecode.wiki and https://cybersecwiki.com to contribute to infosec community.
-              -	Hosted and managed Payatu Hiring CTF, contributed to creating challenges, hosting, and maintaining infrastructure, moderating Discord, etc. post that taking interviews of the top candidates to hire them.
-
+             - 🧪 Performed penetration testing on a wide range of web technologies to identify critical vulnerabilities affecting the business, such as Content Manipulation and SQL Injection.
+             - 🔍 Experienced in working with automated and manual penetration testing methodologies to deliver quality results.
+             - ⛅ Performed cloud configuration review and penetration testing to find critical misconfigurations in client’s infrastructure.
+             - 🔧 Automated workflows, created DevSecOps pipelines, and performed penetration testing on CI/CD pipelines to find vulnerabilities.
+             - 🌐 Worked on in-house open-source projects like securecode.wiki and cybersecwiki.com to contribute to the infosec community.
+             - 🎯 Hosted and managed Payatu Hiring CTF, contributed to creating challenges, hosting and maintaining infrastructure, moderating Discord, and conducted interviews for top candidates.
         - title: Security Consultant Intern
           company: Payatu
           company_url: 'https://payatu.com/'
