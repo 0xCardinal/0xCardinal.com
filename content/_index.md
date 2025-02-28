@@ -40,7 +40,7 @@ sections:
           date_start: '2023-11-13'
           date_end: '2024-11-15'
           description: 
-              - 🤝 Worked alongside engineering teams to promote a shift-left culture and improve the company’s security posture.
+              - 🤝 Worked alongside engineering teams to promote a shift-left culture and improve the company's security posture.
               - 🛡️ Conducted architecture reviews and threat modeling to proactively implement security best practices.
               - 🎮 Developed and launched "Hourglass," a security gamification platform at Tide to reward positive security behavior, encouraging proactive issue reporting and reducing potential security risks.
               - ⛅ Collaborated with the cloud engineering team to incorporate security in the AWS infrastructure.
